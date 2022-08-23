@@ -6,4 +6,3 @@ INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES("Mickey Pan
 INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES("Blackie Panda",12,"F","Black","High",TRUE);
 INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES("Kartel Panda",13,"F","White","Low",FALSE);
 INSERT INTO bears (name,age, sex, color, temperament, alive) VALUES(NULL,13,"F","White","Low",FALSE);
-
